@@ -1,7 +1,7 @@
 #### Hi there 👋, I'm Shantanu Tripathi
 
 - :star_struck: I love to work on ML, DL and Robotics Domain.
-- 👯 Looking to collaborate on Kaggle Competitions and ML,DL Projects.
+- 👯 Looking to collaborate on Kaggle Competitions and AI Projects.
 - 📫 Let's innovate together :envelope: [Shantanu Tripathi](mailto:shantanutripathi002@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
